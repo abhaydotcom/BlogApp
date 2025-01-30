@@ -9,10 +9,9 @@ import Signup from "./signup";
 import Login from "./login";
 import PostForm from './postForm/PostForm'
 import PostCard from './postCard'
-import Input from "./Input";
+import Input from "./input";
 import Select from "./select"
 import  AuthLayout from "./AuthLayout";
-   
 
 export {
     Header,
